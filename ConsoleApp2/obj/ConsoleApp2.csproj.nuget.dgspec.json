@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Yuliia_Nechyporuk\\source\\repos\\lesson10\\ConsoleApp2\\ConsoleApp2.csproj": {}
+    "C:\\Users\\UseR\\source\\repos\\A_Level\\CloneGitHub\\lesson10-classwork\\lesson10\\ConsoleApp2\\ConsoleApp2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Yuliia_Nechyporuk\\source\\repos\\lesson10\\ConsoleApp2\\ConsoleApp2.csproj": {
+    "C:\\Users\\UseR\\source\\repos\\A_Level\\CloneGitHub\\lesson10-classwork\\lesson10\\ConsoleApp2\\ConsoleApp2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Yuliia_Nechyporuk\\source\\repos\\lesson10\\ConsoleApp2\\ConsoleApp2.csproj",
+        "projectUniqueName": "C:\\Users\\UseR\\source\\repos\\A_Level\\CloneGitHub\\lesson10-classwork\\lesson10\\ConsoleApp2\\ConsoleApp2.csproj",
         "projectName": "ConsoleApp2",
-        "projectPath": "C:\\Users\\Yuliia_Nechyporuk\\source\\repos\\lesson10\\ConsoleApp2\\ConsoleApp2.csproj",
-        "packagesPath": "C:\\Users\\Yuliia_Nechyporuk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Yuliia_Nechyporuk\\source\\repos\\lesson10\\ConsoleApp2\\obj\\",
+        "projectPath": "C:\\Users\\UseR\\source\\repos\\A_Level\\CloneGitHub\\lesson10-classwork\\lesson10\\ConsoleApp2\\ConsoleApp2.csproj",
+        "packagesPath": "C:\\Users\\UseR\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\UseR\\source\\repos\\A_Level\\CloneGitHub\\lesson10-classwork\\lesson10\\ConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Yuliia_Nechyporuk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\UseR\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -25,8 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/foodtruckinc/BeetBox/_packaging/BeetBox.Feed/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
