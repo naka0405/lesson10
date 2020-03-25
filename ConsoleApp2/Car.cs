@@ -4,7 +4,7 @@ using System;
 
 namespace CarStorage
 {
-    public class Car:IVehicle, IDiscount, IPrint
+    public class Car:IVehicle, IDiscount
     {
         private double _price = 0;
 

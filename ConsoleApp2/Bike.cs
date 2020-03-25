@@ -3,7 +3,7 @@
 
 namespace ConsoleApp2
 {
-    public class Bike:IVehicle, IDiscount, IPrint
+    public class Bike:IVehicle, IDiscount
     {
         public string Name => "Bike!";
          public double Price { get; set; }
