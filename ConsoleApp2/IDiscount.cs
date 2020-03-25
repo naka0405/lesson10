@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ConsoleApp2
+﻿namespace ConsoleApp2
 {
-     public interface IDiscount
+     public interface IDiscount:IPrint
     {       
         string GetSale();
-        void PrintInfo();
+        //void PrintInfo();
     }
 }

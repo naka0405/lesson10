@@ -63,10 +63,5 @@ namespace ConsoleApp2
         {
             return 90;
         }
-
-        public override void PrintInfo()
-        {
-            Console.WriteLine(ToString());
-        }
     }
 }

@@ -20,3 +20,15 @@ C:\Users\UseR\source\repos\A_Level\CloneGitHub\lesson10-classwork\lesson10\Conso
 C:\Users\UseR\source\repos\A_Level\CloneGitHub\lesson10-classwork\lesson10\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
 C:\Users\UseR\source\repos\A_Level\CloneGitHub\lesson10-classwork\lesson10\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
 C:\Users\UseR\source\repos\A_Level\CloneGitHub\lesson10-classwork\lesson10\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+C:\Users\UseR\source\repos\A_Level\CloneGitHub\lesson10\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.exe
+C:\Users\UseR\source\repos\A_Level\CloneGitHub\lesson10\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.deps.json
+C:\Users\UseR\source\repos\A_Level\CloneGitHub\lesson10\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.json
+C:\Users\UseR\source\repos\A_Level\CloneGitHub\lesson10\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.runtimeconfig.dev.json
+C:\Users\UseR\source\repos\A_Level\CloneGitHub\lesson10\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.dll
+C:\Users\UseR\source\repos\A_Level\CloneGitHub\lesson10\ConsoleApp2\bin\Debug\netcoreapp3.1\ConsoleApp2.pdb
+C:\Users\UseR\source\repos\A_Level\CloneGitHub\lesson10\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.csprojAssemblyReference.cache
+C:\Users\UseR\source\repos\A_Level\CloneGitHub\lesson10\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\UseR\source\repos\A_Level\CloneGitHub\lesson10\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.AssemblyInfo.cs
+C:\Users\UseR\source\repos\A_Level\CloneGitHub\lesson10\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.dll
+C:\Users\UseR\source\repos\A_Level\CloneGitHub\lesson10\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.pdb
+C:\Users\UseR\source\repos\A_Level\CloneGitHub\lesson10\ConsoleApp2\obj\Debug\netcoreapp3.1\ConsoleApp2.genruntimeconfig.cache
